@@ -1,0 +1,6 @@
+1- O teste de unidade testa o comportamento das classes, isso é, o funcionamento dos seus métodos e manipulação de dados.
+O teste funcional, por sua vez, é um teste elaborado baseado no funcionamento do sistema e se esse realiza as funções que foi
+projetado para realizar.
+
+2- O teste de unidade é o teste do ponto de vista do desenvolvedor em relação ao sistema.
+O teste funcional é o teste elaborado com base no ponto de vista da interação do usuário com o sistema.
