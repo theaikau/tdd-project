@@ -1,0 +1,5 @@
+O processo de TDD descrito na figura engloba testes funcionais e de unidade.
+De forma geral, o processo deve ser iniciado escrevendo-se um teste funcional e, caso ele não passe,
+um teste de unidade. Após isso, deve ser escrito o código mínimo para que a aplicação passe primeiramente no
+teste de unidade e depois no teste funcional. A cada refatoração do código os testes devem ser rodados novamente.
+O processo termina quando não forem necessárias mais refatorações e ambos os testes estiverem passando.
